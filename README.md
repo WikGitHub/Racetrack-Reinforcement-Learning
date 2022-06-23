@@ -1,1 +1,1 @@
-# Racetrack-Reingorcement-Learning
+# Racetrack-Reinforcement-Learning
